@@ -8,7 +8,7 @@
 
 
 
-HASTA DOKTOR VE SEKRETER OLARAK ÜÇ TANE GİRİŞİMİZ OLACAK.
+<b>Proje Özeti:</b>HASTA DOKTOR VE SEKRETER OLARAK ÜÇ TANE GİRİŞİMİZ OLACAK.Her birisi kendi butonunda giriş yaptıktan sonra kendi ile ilgili işlemleri yapabilecektir.BU proje dil olarak C# Veriabanı olarak MSSQL kullanılmıştır.<br><hr>
 ![](girisler.jpg)
 
 
