@@ -27,3 +27,6 @@ Doktor girişi: doktor Tc kimlik no ve veritabanında kayıtlı şifresi ile sis
 <br>
 ![](doktordetay.jpg)<br>
 <br>
+Sekreter Girişi:Sekreter Tc kimlik no ve Veritabanında kayıtlı şifresi ile başarılı giriş yaptıktan sonra frmsektergiris.cs formundan frm sekreter detay formuna yönlenecektir.Frmsekreterdetay.cs formunda sekreter bilgi kısmında sekreter ile bilgileri duyuru oluştur kısmı ile yeni bir duyuru oluşturmayı randevu paneli ile yeni bir randevu oluştumayı veya güncellemeyi  hızlı erişim yeri ile doktor paneli branş paneli ve randevu listesini görüntüleyecektir.Branşlar ve randevu listesi kısmından datagridwiev ile aktif olanları görüntüleyecektir.
+<br>
+![](sekreterdetay.jpg)
