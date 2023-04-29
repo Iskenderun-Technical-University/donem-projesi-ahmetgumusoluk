@@ -2,7 +2,7 @@
 
 
 
----------------------<b>GÜMÜŞOLUK HASTANESİ RANDEVU OTOMASYONU</b>--------------------------------------------
+<h1><b>GÜMÜŞOLUK HASTANESİ RANDEVU OTOMASYONU</b></h1>
 
 
 
