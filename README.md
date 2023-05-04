@@ -17,9 +17,10 @@
 Bu projede veritabanı olarak MSSQL kullanılmıştır<br>
 Branşlar,Doktorlar,hastalar,Randevular,Sekreter adında 5 tane tablomuz olacaktır.<br>
 ![](veritabanı.jpg)
-
 <br>
-
+<b><h2>Örnek doktorlar tablosu:</b></h2><br>
+![](veritabanı1.jpg)
+<br>
 
 Hasta Girişi: Hasta TC kimlik no ve veritabanında kayıtlı şifresi ile giriş yapmaktadır.Eğer kaydı yoksa üye ol butonu ile kayıt olacaktır.
 ![](hastagiris1.jpg)
