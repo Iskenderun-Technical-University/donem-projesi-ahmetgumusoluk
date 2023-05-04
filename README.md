@@ -9,6 +9,9 @@
 
 
 <b><h2>Projenin motivasyonu:</h2></b>Eğer bir hastaneniz, özel sağlık merkeziniz, kliniğiniz ya da muayenehaneniz varsa, etkili bir sağlık yönetimine de ihtiyacınız var demektir. Merkezinizin iş yükünü azaltmak ve performansını maksimum seviyeye çıkarmak için, işlemlerinizi ve iş süreçlerinizi daha güvenli ve verimli hale getirmek için bu projeyi yapmayı istiyorum<br><hr>
+<b><h2>Projenin amacı:</h2></b>Projemizin amacı bir hastane randevu sistemi sağlamaktır.bunun için doktor hasta ve sekreter olarak üç farklı giriş olacaktır.Bu üç faklı giriş ile giren kullanıcılar kendileri ile ilgili işlemleri doğru ve hızlı bir şekilde yapacaktır.<br><hr>
+
+
 ![](girisler1.jpg)
 <br>
 <b><h2>USE CASE DİAGRAM:</b></h2>
