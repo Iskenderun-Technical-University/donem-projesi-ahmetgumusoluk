@@ -12,10 +12,9 @@
 <b><h2>Projenin amacı:</h2></b>Projemizin amacı bir hastane randevu sistemi sağlamaktır.bunun için doktor hasta ve sekreter olarak üç farklı giriş olacaktır.Bu üç faklı giriş ile giren kullanıcılar kendileri ile ilgili işlemleri doğru ve hızlı bir şekilde yapacaktır.<br><hr>
 
 
-![](girisler1.jpg)
-<br>
-<b><h2>USE CASE DİAGRAM:</b></h2>
-![](usecase.jpg)
+
+<b><h2> veritabanı tabloları:</b></h2>
+
 <br>
 
 
