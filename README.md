@@ -13,7 +13,10 @@
 
 
 
-<b><h2> veritabanı tabloları:</b></h2>
+<b><h2> veritabanı tabloları:</b></h2><br>
+Bu projede veritabanı olarak MSSQL kullanılmıştır<br>
+Branşlar,Doktorlar,hastalar,Randevular,Sekreter adında 5 tane tablomuz olacaktır.<br>
+![](veritabanı.jpg)
 
 <br>
 
