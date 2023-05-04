@@ -8,7 +8,7 @@
 
 
 
-<b><h2>Proje Özeti:</h2></b>HASTA DOKTOR VE SEKRETER OLARAK ÜÇ TANE GİRİŞİMİZ OLACAK.Her birisi kendi butonuyla giriş yaptıktan sonra kendi ile ilgili işlemleri yapabilecektir.BU proje dil olarak C# Veritabanı olarak MSSQL kullanılmıştır.<br><hr>
+<b><h2>Projenin motivasyonu:</h2></b>Eğer bir hastaneniz, özel sağlık merkeziniz, kliniğiniz ya da muayenehaneniz varsa, etkili bir sağlık yönetimine de ihtiyacınız var demektir. Merkezinizin iş yükünü azaltmak ve performansını maksimum seviyeye çıkarmak için, işlemlerinizi ve iş süreçlerinizi daha güvenli ve verimli hale getirmek için bu projeyi yapmayı istiyorum<br><hr>
 ![](girisler1.jpg)
 <br>
 <b><h2>USE CASE DİAGRAM:</b></h2>
